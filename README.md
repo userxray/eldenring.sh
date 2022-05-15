@@ -8,6 +8,8 @@ GAME | GERMAN
 
 How to run the game!
 
+____________________________________________________________
+
 
 
 bash eldenring.sh
