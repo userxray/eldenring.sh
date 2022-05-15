@@ -1,1 +1,4 @@
 # eldenring.sh
+
+
+GAME | GERMAN
